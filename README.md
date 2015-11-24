@@ -1,7 +1,7 @@
 # sample-code
 This contains some sample codes from OpenVX mapping of a light-weight tracking system for Synopsys quad-core IP subsystem.
 
-To keep the algorithm and the codes *confidential*, only random part of the codes are selected for demosntration.
+To keep the algorithm and the codes **confidential**, only random part of the codes are selected for demosntration.
 The application contains roughly around 20,000 lines of code.
 
 Some info:
