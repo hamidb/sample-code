@@ -11,7 +11,9 @@ Some info:
 - Mapping of a deep Convolutional Neural Network (CNN) face detector with trainable filters.
 
 Peak inside:
-- *vxGraphManager.h* contains a graph that performs the tracking part.
+
+*vxGraphManager.h* contains a graph that performs the tracking part.
+
 The graph consists of:
 - Grayscale node
 - Integral image node
